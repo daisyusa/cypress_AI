@@ -27,3 +27,26 @@ What's inside:
 ▸ Cloud CLI → https://bit.ly/cloud-cli
 
 ▸ Cloud MCP → https://bit.ly/cypress-cloud-mcp
+
+# cy.prompt() 
+
+https://www.youtube.com/watch?v=3uxb_53O_oo&t=22s
+
+https://docs.cypress.io/api/commands/prompt
+
+cy.prompt(), turns natural-language steps into runnable Cypress tests—then self-heals when your UI changes. In this episode, we demo a login-to-checkout flow, intentionally break the UI, and show how cy.prompt() adapts. You’ll also learn how to export AI-generated steps into real Cypress code so your mission-critical paths run deterministically in CI.
+
+You’ll learn how to:
+
+🔴 Author tests in plain English and see the mapped Cypress commands
+
+🔴 Reduce flakiness with self-healing when selectors or layouts change
+
+🔴 Accelerate DevOps feedback loops with fast reruns and targeted regeneration
+
+🔴 Shift-left safely by letting non-engineers draft steps you later harden
+
+🔴 Export to code for PR review, versioning, and deterministic pipelines
+
+Perfect for: QA leaders, SDETs, automation engineers, and DevOps teams shipping faster with AI testing while maintaining control in CI/CD.
+
